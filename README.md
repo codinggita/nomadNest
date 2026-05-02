@@ -10,7 +10,7 @@
 - **🌐 Live Project:** [https://nomadnesttt.netlify.app/](https://nomadnesttt.netlify.app/)
 - **📖 API Documentation:** [https://nomadnest-x4an.onrender.com/api-docs/](https://nomadnest-x4an.onrender.com/api-docs/)
 - **🛠️ Backend Deployed:** [https://nomadnest-x4an.onrender.com/](https://nomadnest-x4an.onrender.com/)
-- **📺 YouTube Demo:** [Add your YouTube Link Here]
+- **📺 YouTube Demo:** [https://youtu.be/GHAzqBsoEd4]
 
 ---
 
