@@ -10,7 +10,7 @@
 - **🌐 Live Project:** [https://nomadnesttt.netlify.app/](https://nomadnesttt.netlify.app/)
 - **📖 API Documentation:** [https://nomadnest-x4an.onrender.com/api-docs/](https://nomadnest-x4an.onrender.com/api-docs/)
 - **🛠️ Backend Deployed:** [https://nomadnest-x4an.onrender.com/](https://nomadnest-x4an.onrender.com/)
-- **📺 YouTube Demo:** [Add your YouTube Link Here]
+- **📺 YouTube Demo:** [https://youtu.be/GHAzqBsoEd4]
 
 ---
 
@@ -77,21 +77,7 @@ wanderlust/
 
 ---
 
-## 📸 Project Screenshots
 
-> [!TIP]
-> *Replace these placeholders with your actual screenshots once you have them!*
-
-### 1. Dashboard Overview
-![Dashboard Screenshot](https://raw.githubusercontent.com/dhyeyptl10/nomadNest/main/screenshots/dashboard.png)
-
-### 2. Safety & Emergency Center
-![Emergency Screenshot](https://raw.githubusercontent.com/dhyeyptl10/nomadNest/main/screenshots/emergency.png)
-
-### 3. API Documentation (Swagger)
-![Swagger Screenshot](https://raw.githubusercontent.com/dhyeyptl10/nomadNest/main/screenshots/swagger.png)
-
----
 
 ## 👨‍💻 Author
 
