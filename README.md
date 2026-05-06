@@ -77,21 +77,7 @@ wanderlust/
 
 ---
 
-## 📸 Project Screenshots
 
-> [!TIP]
-> *Replace these placeholders with your actual screenshots once you have them!*
-
-### 1. Dashboard Overview
-![Dashboard Screenshot](https://raw.githubusercontent.com/dhyeyptl10/nomadNest/main/screenshots/dashboard.png)
-
-### 2. Safety & Emergency Center
-![Emergency Screenshot](https://raw.githubusercontent.com/dhyeyptl10/nomadNest/main/screenshots/emergency.png)
-
-### 3. API Documentation (Swagger)
-![Swagger Screenshot](https://raw.githubusercontent.com/dhyeyptl10/nomadNest/main/screenshots/swagger.png)
-
----
 
 ## 👨‍💻 Author
 
